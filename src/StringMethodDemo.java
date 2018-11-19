@@ -1,7 +1,6 @@
 
 public class StringMethodDemo {
-	private void sysout() {
-		// TODO Auto-generated method stub
-		
+	public static void main(String[] arges){
+		System.out.println("StringDemo");
 	}
 }
